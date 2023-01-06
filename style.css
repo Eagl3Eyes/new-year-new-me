@@ -45,3 +45,36 @@ header {
     font-size: 20px;
     color: #005FAC;
 }
+
+.previous-year-container {
+    display: flex;
+    margin-top: 130px;
+    gap: 87px;
+    justify-content: center;
+}
+
+.previous-year-title {
+    margin-top: 220px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.previous-year-description {
+    margin-top: 24px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.previous-year-description-check{
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
