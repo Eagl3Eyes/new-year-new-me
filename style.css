@@ -70,11 +70,197 @@ header {
     font-size: 16px;
     color: #444343;
 }
-.previous-year-description-check{
+
+.previous-year-description-check {
     margin-top: 16px;
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     color: #444343;
+}
+
+.myplan {
+    text-align: center;
+    margin-top: 130px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #151414;
+}
+
+.myplan-container {
+    margin-top: 50px;
+    display: flex;
+    gap: 87px;
+    justify-content: center;
+}
+
+.myplan-title {
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+}
+
+.myplan-description {
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+}
+
+.myplan-img-1 {
+    padding-left: 92px
+}
+
+.myplan-img-2 {
+    padding-left: 40px
+}
+
+.myplan-img-3 {
+    padding-left: 58px
+}
+
+.myplan-img-4 {
+    padding-left: 45px
+}
+
+.callnow {
+    margin-top: 125px;
+}
+
+.callnow-banner {
+    background-image: url(images/gradient1.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin: auto;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.callnow-title {
+    padding-top: 66px;
+    margin-left: 70px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.callnow-btn {
+    margin-top: 24px;
+    margin-left: 70px;
+    background: #FFFFFF;
+    padding: 16px 12px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+}
+
+.contact {
+    margin-top: 130px;
+    height: 550px;
+    background: #151414;
+    display: flex;
+}
+
+.contact-container-left {
+    margin-top: 130px;
+    margin-left: 380px;
+}
+.contact-container-right {
+    margin-top: 150px;
+    margin-left: 335px;
+}
+
+.contact-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.contact-description {
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.contact-email {
+    margin-top: 24px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.contact-phone {
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.contact-social {
+    margin-top: 32px;
+}
+
+.contact-sub {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.contact-input {
+    margin-top: 31px;
+}
+
+input[type="text"] {
+    padding-left: 15px;
+    background: #151414;
+    width: 325px;
+    height: 64px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 5px;
+    color: #F3F3F3;
+}
+
+.contact-sub-btn {
+    margin-top: 16px;
+    background: #005FAC;
+    padding: 16px 12px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
 }
